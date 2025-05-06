@@ -5,9 +5,7 @@ Add folders: frontend/, backend/, infrastructure/terraform/, buildspec.yml, scri
 
 🌐 Phase 2: Infrastructure Setup using Terraform ✅ Module 1: VPC and Networking (Skip if using existing VPC/Subnets) Since you've shared:
 
-**VPC: vpc-045409f9dc02cd4e1
 
-Subnets: subnet-0a37cf861b1a56e2b, subnet-0303a79a44a64c950**
 ![image](https://github.com/user-attachments/assets/9c439d23-8d4b-4286-87d9-7f4e81466bef)
 
 📁 Folder Structure
